@@ -2,12 +2,22 @@ var movies = [
   {
     id: 1,
     title: 'Harry Potter',
-    desc: 'film o czarodzieju'
+    desc: 'Film o czarodzieju'
   },
   {
     id: 2,
     title: 'Król Lew',
     desc: 'Film o królu sawanny'
+  },
+  {
+    id: 3,
+    title: 'Atlas Chmur',
+    desc: 'Film o życiach ludzi w różnych czasach, różnych wcieleniach'
+  },
+  {
+    id: 4,
+    title: 'Colony',
+    desc: 'Serial o najeźdźcach z kosmosu'
   }
 ];
 
